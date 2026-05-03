@@ -1,0 +1,3 @@
+method,backend,documents,assigned_topics_excluding_outliers,outlier_documents,outlier_ratio_pct,largest_topic_size,smallest_topic_size
+BERTopic (TF-IDF + TruncatedSVD),tfidf_svd,23061,52,3234,14.023676336672303,1400,152
+BERTopic (sentence-transformer/all-MiniLM-L6-v2),sentence_transformer,23061,41,4449,19.292311695069596,2141,153

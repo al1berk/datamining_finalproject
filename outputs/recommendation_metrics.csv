@@ -1,0 +1,2 @@
+eligible_rows,eligible_journals,train_rows,test_rows,top1_accuracy,top3_accuracy,top5_accuracy,mrr
+22980,406,18384,4596,0.28372497824194953,0.45887728459530025,0.5496083550913838,0.410201173453436

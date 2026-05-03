@@ -1,0 +1,4 @@
+bertopic
+hdbscan
+sentence-transformers
+umap-learn
